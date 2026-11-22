@@ -1,0 +1,13 @@
+{
+  "name": "sourced",
+  "owner": {
+    "name": "Elegant Atomics"
+  },
+  "plugins": [
+    {
+      "name": "sourced",
+      "source": "./plugins/sourced",
+      "description": "See what Claude Code searched, opened and cited when it answered a prompt: the queries, the ranked results, the pages it fetched and the links in the answer. Built for devtool and API companies checking whether Claude Code finds their docs. Free and local, with no account needed; it uploads one turn only when you confirm it."
+    }
+  ]
+}

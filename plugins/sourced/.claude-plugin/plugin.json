@@ -1,0 +1,18 @@
+{
+  "name": "sourced",
+  "version": "0.1.0",
+  "description": "Shows what Claude Code searched, opened and cited in one turn: the queries, the ranked results, the pages fetched and the links in the answer. For devtool and API companies checking whether Claude Code finds their docs. Records on your computer and works with no account; uploads one turn only when you confirm it.",
+  "author": {
+    "name": "Elegant Atomics"
+  },
+  "homepage": "https://getsourced.ai",
+  "repository": "https://github.com/getsourced-ai/claude-code",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "web-search",
+    "citations",
+    "ai-search",
+    "mcp"
+  ]
+}

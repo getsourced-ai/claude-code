@@ -1,0 +1,17 @@
+{
+  "source_commit": "880fadaa92bd6c68acc253723ab35d9269a102ce",
+  "files": {
+    "stage-parser.js": {
+      "source": "src/content/stage-parser.js",
+      "sha256": "b38d63fa3ab3476c3015e8d2574476cbf655a5db5b7bdd48abfa604b0dae5cdd"
+    },
+    "record-stages.js": {
+      "source": "src/content/record-stages.js",
+      "sha256": "0c886675be4607f08ab97a04579707cb4c101d4b83cd9bb8a06075f68f17cdd6"
+    },
+    "capture-contract.js": {
+      "source": "src/shared/capture-contract.js",
+      "sha256": "bc5a1f14731286293c42449a4b29811bf3f17e2a8d788b8fdb52560e4dfc9205"
+    }
+  }
+}
